@@ -1,4 +1,7 @@
 # AZ-303-Exam-Tips
+<p align="center"><a href="https://github.com/AZ-303-Exam-Tips">
+  <img align="center" src="https://github.com/AZ-303-Exam-Tips/EXAM-Expert-AZ-303-600x600" alt="" />
+</a></p> 
 Exam Guidelines from @atulkamble.
 
 I used these resources to Study & Pass AZ-303.
