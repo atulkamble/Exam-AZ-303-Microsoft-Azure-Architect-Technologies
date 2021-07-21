@@ -12,7 +12,7 @@ I used these resources to Study & Pass AZ-303.
 
 ### My Experience: I found recent exam tough and with new questions.
 
-# Tip: 
+# Tips: 
 - Try to solve each section with full commitment.
 - Do Study from more than one resource enlisted above along with Azure Docs*** https://docs.microsoft.com/en-us/learn/azure/
 
