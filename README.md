@@ -1,6 +1,6 @@
 # AZ-303-Exam-Tips
 
-Exam Guidelines from @atulkamble.
+Exam Guidelines from [@atulkamble](https://github.com/atulkamble).
 
 I used these resources to Study & Pass AZ-303.
 
