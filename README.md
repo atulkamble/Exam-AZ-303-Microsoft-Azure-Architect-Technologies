@@ -1,7 +1,5 @@
 # AZ-303-Exam-Tips
-<p align="center"><a href="https://github.com/AZ-303-Exam-Tips">
-  <img align="center" src="https://github.com/atulkamble/AZ-303-Exam-Tips/blob/main/EXAM-Expert-AZ-303-600x600.png" alt="" />
-</a></p> 
+
 Exam Guidelines from @atulkamble.
 
 I used these resources to Study & Pass AZ-303.
@@ -17,3 +15,7 @@ I used these resources to Study & Pass AZ-303.
 # Tip: 
 - 1. Try to solve each section with full commitment.
 - 2. Do Study from more than one resource enlisted above along with Azure Docs*** https://docs.microsoft.com/en-us/learn/azure/
+
+<p align="center"><a href="https://github.com/AZ-303-Exam-Tips">
+  <img align="center" src="https://github.com/atulkamble/AZ-303-Exam-Tips/blob/main/EXAM-Expert-AZ-303-600x600.png" alt="" />
+</a></p> 
